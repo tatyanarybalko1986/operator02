@@ -36,7 +36,7 @@ public class Main {
                 System.out.println("Потребуется 2 дня для доставки");
 
                 if (deliveryDistance > 60 && deliveryDistance <= 100)
-                    System.out.println("Потребуется 3 дня для доставки");
+                    System.out.println("Потребуется 3 дня доставки");
             }
         }
 
